@@ -3,5 +3,7 @@
     "description": "Laravel Tinker Playground",
     "type": "project",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
