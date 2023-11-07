@@ -10,7 +10,6 @@ fi
 
 # Check if .env file is present
 if test -f .env;then
-echo "env found"
   export $(cat .env | xargs)
 fi
 
