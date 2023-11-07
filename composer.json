@@ -1,0 +1,7 @@
+{
+    "name": "wesamly/laravel-tinker-playground",
+    "description": "Laravel Tinker Playground",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
