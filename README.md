@@ -8,7 +8,7 @@ Run the following command, which create a new project via the Composer `create-p
 
 ```
 REPO='{"type":"package","package":{"name":"wesamly/laravel-tinker-playground","version":"1.0.0","source":{"url":"https://github.com/wesamly/laravel-tinker-playground","type":"git","reference":"origin/main"}}}'
-composer create-project --remove-vcs --no-install --repository $REPO wesamly/laravel-tinker-playground playground3
+composer create-project --remove-vcs --no-install --repository $REPO wesamly/laravel-tinker-playground playground
 ```
 
 Copy the `.env.example` file to `.env` and update `LARAVEL_DIR` value.
